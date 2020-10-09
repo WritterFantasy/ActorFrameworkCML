@@ -29,6 +29,12 @@
 			<Item Name="Function Generator Actor.lvlib" Type="Library" URL="../Function Generator Actor/Function Generator Actor.lvlib"/>
 		</Item>
 		<Item Name="Digital Acquisition" Type="Folder">
+			<Item Name="Logging Actor" Type="Folder">
+				<Item Name="Digital Logging.lvlib" Type="Library" URL="../Digital Logging/Digital Logging.lvlib"/>
+				<Item Name="Digital Plain Text.lvlib" Type="Library" URL="../Digital Plain Text/Digital Plain Text.lvlib"/>
+				<Item Name="Digital TDMS.lvlib" Type="Library" URL="../Digital TDMS/Digital TDMS.lvlib"/>
+				<Item Name="CSV.lvlib" Type="Library" URL="../CSV/CSV.lvlib"/>
+			</Item>
 			<Item Name="Counter.lvlib" Type="Library" URL="../Counter/Counter.lvlib"/>
 			<Item Name="Digital Acquisition.lvlib" Type="Library" URL="../Digital Acquisition/Digital Acquisition.lvlib"/>
 		</Item>

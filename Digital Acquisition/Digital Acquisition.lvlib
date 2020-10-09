@@ -5,8 +5,14 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Limit Change Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Limit Change Msg/Limit Change Msg.lvclass"/>
+		<Item Name="Save Data Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Save Data Msg/Save Data Msg.lvclass"/>
+		<Item Name="Saving Status Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Saving Status Msg/Saving Status Msg.lvclass"/>
+		<Item Name="Start Saving Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Start Saving Msg/Start Saving Msg.lvclass"/>
 		<Item Name="StartStopCounter Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/StartStopCounter Msg/StartStopCounter Msg.lvclass"/>
+		<Item Name="Stop Saving Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Stop Saving Msg/Stop Saving Msg.lvclass"/>
 		<Item Name="Update Data Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Update Data Msg/Update Data Msg.lvclass"/>
+		<Item Name="Update File Name Indicator Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Update File Name Indicator Msg/Update File Name Indicator Msg.lvclass"/>
+		<Item Name="Update ID Msg.lvclass" Type="LVClass" URL="../../Digital Acquisition Messages/Update ID Msg/Update ID Msg.lvclass"/>
 	</Item>
 	<Item Name="Digital Acquisition.lvclass" Type="LVClass" URL="../Digital Acquisition.lvclass"/>
 </Library>
