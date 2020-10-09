@@ -4,7 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="EmptyFileName Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/EmptyFileName Msg/EmptyFileName Msg.lvclass"/>
 		<Item Name="GenerationStatus Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/GenerationStatus Msg/GenerationStatus Msg.lvclass"/>
+		<Item Name="Get File Name Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/Get File Name Msg/Get File Name Msg.lvclass"/>
 		<Item Name="Save Action Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/Save Action Msg/Save Action Msg.lvclass"/>
 		<Item Name="StartStop Generation Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/StartStop Generation Msg/StartStop Generation Msg.lvclass"/>
 		<Item Name="Stop Saving Msg.lvclass" Type="LVClass" URL="../../Function Generator Actor Messages/Stop Saving Msg/Stop Saving Msg.lvclass"/>
